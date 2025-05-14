@@ -28,6 +28,8 @@ Este projeto ajudou a praticar:
 - Classes CSS dinâmicas com JavaScript
 - Estruturação de layout moderno e responsivo
 
+## - [Projeto]( https://victorfreireavfs.github.io/projeto-cronometro/)
+
 ## 🔧 Como usar
 
 1. Clone o repositório:
