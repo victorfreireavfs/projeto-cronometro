@@ -32,4 +32,4 @@ Este projeto ajudou a praticar:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/victorfreireavfs/projeto-cronometro
