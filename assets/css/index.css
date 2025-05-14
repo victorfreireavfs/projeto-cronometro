@@ -72,3 +72,21 @@ body{
     background-color: rgba(78, 129, 196, 0.514);
     color: black;
 }
+
+#hora-agora {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 1rem;
+  color: #555;
+  background-color: rgba(163, 157, 157, 0.336);
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 500;
+  z-index: 10;
+}
+
+body.dark-mode #hora-agora {
+  background-color: rgba(139, 136, 136, 0.4);
+  color: #ccc;
+}
